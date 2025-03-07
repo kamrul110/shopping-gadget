@@ -1,0 +1,170 @@
+[
+    {
+      "product_id": 1,
+      "product_title": "Wireless Bluetooth Earbuds",
+      "product_image": "https://images.unsplash.com/photo-1627989580309-bfaf3e58af6f?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 59.99,
+      "description": "High-quality wireless earbuds with noise cancellation and long battery life.",
+      "specification": [
+        "Bluetooth 5.0",
+        "Battery Life: 20 hours",
+        "Noise Cancellation: Yes",
+        "Water Resistance: IPX7"
+      ],
+      "availability": true,
+      "rating": 4.5,
+      "discount": 10
+    },
+    {
+      "product_id": 2,
+      "product_title": "Smartwatch Fitness Tracker",
+      "product_image": "https://images.unsplash.com/photo-1532435109783-fdb8a2be0baa?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "Electronics",
+      "price": 129.99,
+      "description": "A sleek smartwatch with heart rate monitoring, GPS, and sleep tracking.",
+      "specification": [
+        "Display: 1.3-inch AMOLED",
+        "Battery Life: 7 days",
+        "Water Resistance: 50m",
+        "Compatibility: iOS & Android"
+      ],
+      "availability": true,
+      "rating": 4.7,
+      "discount": 15
+    },
+    {
+      "product_id": 3,
+      "product_title": "Gaming Keyboard",
+      "product_image": "https://images.unsplash.com/photo-1612198188060-c7c2a3b66eae?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 89.99,
+      "description": "Mechanical gaming keyboard with RGB lighting and customizable keys.",
+      "specification": [
+        "Switches: Cherry MX Red",
+        "Backlight: RGB",
+        "Connectivity: Wired",
+        "Keycaps: Double-shot PBT"
+      ],
+      "availability": false,
+      "rating": 4.3,
+      "discount": 0
+    },
+    {
+      "product_id": 4,
+      "product_title": "4K Ultra HD Smart TV",
+      "product_image": "https://images.unsplash.com/photo-1461151304267-38535e780c79?q=80&w=1033&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "Electronics",
+      "price": 799.99,
+      "description": "A 55-inch 4K Ultra HD Smart TV with HDR and built-in streaming apps.",
+      "specification": [
+        "Screen Size: 55 inches",
+        "Resolution: 3840 x 2160",
+        "HDR: Yes",
+        "Smart Features: Netflix, YouTube, Alexa"
+      ],
+      "availability": true,
+      "rating": 4.8,
+      "discount": 20
+    },
+    {
+      "product_id": 5,
+      "product_title": "Portable External SSD",
+      "product_image": "https://images.unsplash.com/photo-1720048169387-84bbb8fd8ec9?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 149.99,
+      "description": "1TB portable SSD with fast transfer speeds and rugged design.",
+      "specification": [
+        "Capacity: 1TB",
+        "Interface: USB 3.2 Gen 2",
+        "Read/Write Speed: 1050/1000 MB/s",
+        "Durability: Shock, vibration, and water resistance"
+      ],
+      "availability": true,
+      "rating": 4.6,
+      "discount": 5
+    },
+    {
+      "product_id": 6,
+      "product_title": "Noise-Cancelling Headphones",
+      "product_image": "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?q=80&w=1126&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "Electronics",
+      "price": 199.99,
+      "description": "Premium over-ear headphones with active noise cancellation.",
+      "specification": [
+        "Driver Size: 40mm",
+        "Battery Life: 30 hours",
+        "Noise Cancellation: Yes",
+        "Wireless: Bluetooth 5.0"
+      ],
+      "availability": true,
+      "rating": 4.9,
+      "discount": 25
+    },
+    {
+      "product_id": 7,
+      "product_title": "Yoga Mat",
+      "product_image": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "Fitness",
+      "price": 50.0,
+      "description": "Eco-friendly yoga mat with non-slip surface.",
+      "specification": [
+        "Material: TPE",
+        "Thickness: 6mm",
+        "Size: 68 x 24 inches",
+        "Weight: 2.2 lbs"
+      ],
+      "availability": true,
+      "rating": 4.4,
+      "discount": 0
+    },
+    {
+      "product_id": 8,
+      "product_title": "Dumbbell Set",
+      "product_image": "https://images.unsplash.com/photo-1597460970375-1449df2fb73a?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "Fitness",
+      "price": 99.99,
+      "description": "Adjustable dumbbell set for home workouts.",
+      "specification": [
+        "Weight Range: 5-25 lbs",
+        "Material: Cast Iron",
+        "Grip: Ergonomic",
+        "Storage: Includes stand"
+      ],
+      "availability": true,
+      "rating": 4.6,
+      "discount": 10
+    },
+    {
+      "product_id": 9,
+      "product_title": "Electric Kettle",
+      "product_image": "https://images.unsplash.com/photo-1643114786355-ff9e52736eab?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "Home Appliances",
+      "price": 55.0,
+      "description": "Fast-boiling electric kettle with auto-shutoff.",
+      "specification": [
+        "Capacity: 1.7 liters",
+        "Power: 1500W",
+        "Material: Stainless Steel",
+        "Safety: Auto-shutoff and boil-dry protection"
+      ],
+      "availability": true,
+      "rating": 4.5,
+      "discount": 5
+    },
+    {
+      "product_id": 10,
+      "product_title": "Air Purifier",
+      "product_image": "https://images.unsplash.com/photo-1436473849883-bb3464c23e93?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "Home Appliances",
+      "price": 199.99,
+      "description": "HEPA air purifier for large rooms.",
+      "specification": [
+        "Coverage: 500 sq. ft.",
+        "Filters: HEPA, Activated Carbon",
+        "Noise Level: 25 dB",
+        "Features: Auto mode, Night light"
+      ],
+      "availability": true,
+      "rating": 4.7,
+      "discount": 15
+    }
+  ]
+  
